@@ -1,1 +1,0 @@
-# flask-project-structure.github.io
